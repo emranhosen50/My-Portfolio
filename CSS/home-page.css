@@ -1,0 +1,209 @@
+.ClientImage-size {
+    width: 90px;
+    height: 90px;
+}
+
+.navbar-toggler {
+    background-color: brown;
+    border: none;
+    padding: 10px 6px;
+}
+
+.THover:hover {
+    color: crimson;
+}
+
+.btn-outline-success1 :hover {
+    /* color: linear-gradient(90deg, rgba(152, 58, 152, 1) 0%, rgba(8, 8, 142, 1) 100%); */
+    background-color: #391992;
+}
+
+.profileImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+.imageTags {
+    object-fit: cover;
+    width: 50px;
+    height: 60px;
+    margin-top: -20px;
+    margin-left: -5px;
+}
+
+.footerButton {
+    border: 2px solid #311691;
+    background-color: #311691;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    transition-duration: 0.4s;
+}
+
+.footerButton:hover {
+    border: 2px solid #4c26d8;
+    background-color: #31169100;
+    color: white;
+}
+
+.progress {
+    background-color: rgb(250, 250, 250);
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 7px;
+}
+
+.progress-value {
+    box-shadow: 0 10px 40px -10px #fff;
+    border-radius: 100px;
+    height: 50px;
+    margin-left: -13px;
+    justify-content: flex-start;
+}
+
+.PColor1 {
+    -webkit-box-shadow: 0px 0px 50px 0px #e11414;
+    -moz-box-shadow: 0px 0px 50px 0px #e11414;
+    box-shadow: 0px 0px 50px 0px #e11414;
+    animation: FULL 3s normal forwards;
+}
+
+.PColor2 {
+    -webkit-box-shadow: 0px 0px 50px 0px #af64e1;
+    -moz-box-shadow: 0px 0px 50px 0px #af64e1;
+    box-shadow: 0px 0px 50px 0px #af64e1;
+    animation: FULL 3s normal forwards;
+}
+
+.PColor3 {
+    -webkit-box-shadow: 0px 0px 50px 0px #443ae1;
+    -moz-box-shadow: 0px 0px 50px 0px #443ae1;
+    box-shadow: 0px 0px 50px 0px #443ae1;
+    animation: FULL 3s normal forwards;
+}
+
+.PColor4 {
+    -webkit-box-shadow: 0px 0px 50px 0px #31f13e;
+    -moz-box-shadow: 0px 0px 50px 0px #31f13e;
+    box-shadow: 0px 0px 50px 0px #31f13e;
+    animation: FULL 3s normal forwards;
+}
+
+.PColor5 {
+    -webkit-box-shadow: 0px 0px 50px 0px #54b4ff;
+    -moz-box-shadow: 0px 0px 50px 0px #54b4ff;
+    box-shadow: 0px 0px 50px 0px #54b4ff;
+    animation: FULL 3s normal forwards;
+}
+
+.PBColor1 {
+    animation: load1 3s normal forwards;
+    background-color: #D63F3F;
+}
+
+.PBColor2 {
+    animation: load2 3s normal forwards;
+    background-color: rgb(143, 18, 226);
+}
+
+.PBColor3 {
+    animation: load3 3s normal forwards;
+    background-color: #443ae1;
+}
+
+.PBColor4 {
+    animation: load4 3s normal forwards;
+    background-color: #31f13e;
+}
+
+.PBColor5 {
+    animation: load5 3s normal forwards;
+    background-color: #54b4ff;
+}
+
+.marginStyle {
+    margin-left: 340px;
+}
+
+@keyframes load1 {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 90%;
+    }
+}
+
+@keyframes load2 {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 80%;
+    }
+}
+
+@keyframes load3 {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 70%;
+    }
+}
+
+@keyframes load4 {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@keyframes load5 {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+@keyframes FULL {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+}
+
+.nav-link {
+    color: #E1FF11;
+}
+
+.nav-link:hover {
+    color: seagreen;
+    background-color: rgba(46, 139, 86, 0);
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input::placeholder {
+    font-size: 13px;
+}

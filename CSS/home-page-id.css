@@ -1,0 +1,29 @@
+#ButtonDownloadCV {
+    background-image: linear-gradient(90deg, rgba(152, 58, 152, 1) 0%, rgba(8, 8, 142, 1) 100%);
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    flex-shrink: 0;
+    font-size: 18px;
+    margin-top: 49px;
+    display: inline-block;
+    text-align: justify;
+    width: 100%;
+}
+
+#ICONDownload {
+    margin-top: -5px;
+    margin-left: 40px;
+    height: 40px;
+    width: 40px;
+}
+
+#ClientsInfo {
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-top: 50px;
+}

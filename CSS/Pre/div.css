@@ -1,0 +1,230 @@
+#MainContainer {
+    margin-top: 90px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.SocialM_DIV {
+    display: flex;
+}
+
+#ProfileBOX {
+    /* margin-left: 400px; */
+    width: 30%;
+    height: 30%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    /* margin-bottom: 45px;
+    margin-top: 40px; */
+    height: 710px;
+    width: 379px;
+    background-color: #141310;
+    /* padding: 0px;
+    padding-bottom: 20px; */
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+}
+
+#Details {
+    /* margin-left: 100px; */
+    width: 70%;
+    height: 70%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    /* margin-bottom: 45px;
+    margin-top: 40px; */
+    height: 1150px;
+    width: 1000px;
+    background-color: #141310;
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+}
+
+#ProfileImgBOX {
+    /* margin-top: -80px;
+    margin-left: 55px; */
+    height: 170px;
+    width: 261px;
+    background-color: #1E1E1E;
+    padding: 0px;
+    /* padding-bottom: 20px; */
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+.ComonDIVForSocial {
+    height: 30px;
+    width: 45px;
+    background-color: #1E1E1E;
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-left: 15px
+}
+
+.ComonDIVForContact {
+    /*   height: 20px;
+   width: 25px;
+   background-color: #1E1E1E;*/
+    padding: 0px;
+    padding-bottom: 1px;
+    border-radius: 6px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 55px
+}
+
+img {
+    object-fit: cover;
+    width: 50px;
+    height: 60px;
+    margin-top: -20px;
+    margin-left: -25px;
+}
+
+.Line {
+    height: 2px;
+    width: 200px;
+    background: #FFF9F9;
+    margin-left: 249px;
+    margin-top: -39px;
+}
+
+.box_for_Protfolio {
+    height: 150px;
+    width: 330px;
+    border: thick;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #373737;
+}
+
+.box_for_Protfolio {
+    margin-left: 39px;
+}
+
+.ComonDIVForProtfolio {
+    height: 30px;
+    width: 38px;
+    /*   background-color: #1E1E1E;*/
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-top: -54px;
+}
+
+#Protfio {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.Line21 {
+    height: 1.6px;
+    width: 260px;
+    background: #707070;
+    align-content: center;
+}
+
+.Content_Text {
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    margin-left: 37px;
+    margin-top: 9px;
+}
+
+.TotalContent_Box {
+    height: 300px;
+    width: 330px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+    margin-top: 49px;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.Content_box {
+    display: flex;
+    margin-top: -19px;
+}
+
+#ClientsInfo {
+    background-color: #1E1E1E;
+    height: 250px;
+    width: 1000px;
+    margin-top: 80px;
+}
+
+.ClientsIcon {
+    display: flex;
+    margin-left: 140px;
+    margin-top: -32px;
+}
+
+.ComonDIVForClient {
+    padding: 30px;
+    padding-bottom: 1px;
+    border-radius: 6px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 55px
+}
+
+#Exp_In {
+    background-color: #1E1E1E;
+    height: 30px;
+    width: 130px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.DownloadCV {
+    margin-top: -19px;
+}
+
+#TopMostSection {
+    background-color: #141310;
+    height: 110px;
+    width: 100%;
+    margin-top: 70px;
+    padding-left: 20px;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 20%;
+}

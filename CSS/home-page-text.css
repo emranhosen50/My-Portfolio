@@ -1,0 +1,80 @@
+#DDText {
+    color: #B7B7B7;
+    font-size: 13px;
+    margin-top: 100px;
+}
+
+#detailshInProfile {
+    text-align-last: left;
+    color: #C1C1C1;
+}
+
+#what_I_do {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.ClinetText {
+    color: white;
+    padding-top: 20px;
+}
+
+.protfilio_name {
+    color: white;
+    margin-right: 60px;
+    margin-top: 0px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.Details_Text {
+    color: #B7B7B7;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.ConName {
+    color: white;
+    font-family: 'Simonetta', cursive;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ConDetails {
+    color: #D5D5D5;
+    font-family: 'Simonetta', cursive;
+    margin-top: -34px;
+    margin-left: 0px;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.OwnTextStyle {
+    color: rgb(93, 4, 167);
+    font-size: 30px;
+    font-family: 'Fugaz One', cursive;
+}
+
+.footerTextColor {
+    color: white;
+}
+
+.textStyle {
+    font-family: 'Pacifico', cursive;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgb(209, 209, 209);
+}
+
+.titleText {
+    font-size: 30px;
+}
+
+.TextLight {
+    color: #A1A09F;
+}
+
+.TextInDetails {
+    margin-top: -5px;
+}

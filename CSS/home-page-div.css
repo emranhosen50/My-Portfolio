@@ -1,0 +1,194 @@
+.ProfileBOX {
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    margin-top: 170px;
+    background-color: #141310;
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+}
+
+.ProfileImgBOX {
+    height: 170px;
+    width: 261px;
+    background-color: #212529;
+    margin-top: -80px;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+.Exp_In {
+    background-color: #1E1E1E;
+    margin: auto;
+    margin-top: -90px;
+    border-radius: 5px;
+}
+
+.ComonDIVForSocial {
+    height: 40px;
+    width: 45px;
+    background-color: #1E1E1E;
+    padding: 0px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.ComonDIVForSocial2 {
+    width: 50px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.ComonDIVForProtfolio {
+    padding: 0px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.box_for_Protfolio {
+    border: thick;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #373737;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.ICONForEXP {
+    background-color: #1e1e1e00;
+    width: 50px;
+    height: 50px;
+}
+
+.UserName {
+    margin-top: -10px;
+    color: rgb(124, 124, 124);
+}
+
+.TotalContent_Box {
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.Content_box {
+    display: flex;
+    margin-top: -19px;
+    margin-top: 10px;
+}
+
+.Content_Text {
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+.DownloadCV {
+    margin-top: -19px;
+}
+
+.ClientsIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ComonDIVForClient {
+    padding-bottom: 1px;
+    border-radius: 6px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    /* margin-left: 55px */
+}
+
+.FooterContainer {
+    background-color: #141310;
+}
+
+.FooterContainerDiv {
+    background-color: #1E1E1E;
+}
+
+.lineForUp {
+    height: 17px;
+    width: 100%;
+    background-color: salmon;
+}
+
+.lineForDown {
+    height: 17px;
+    width: 100%;
+    background-color: rgb(7, 96, 107);
+}
+
+.ProgressAndText {
+    width: 100%;
+}
+
+.knowDiv {
+    background-color: #313131;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
+.marginDown {
+    margin-bottom: -14px;
+}
+
+.lineProtfolio {
+    width: 20%;
+    height: 5px;
+    margin-top: 30px;
+    border-radius: 100px;
+    background-color: salmon;
+}
+
+.roundShape {
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+
+.borderIndiv {
+    background-color: #1E1E1E;
+    border-color: aqua;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
+
+.card-body {
+    background-color: #1E1E1E;
+}
+
+#Details {
+    margin-top: 170px;
+    background-color: #141310;
+    padding: 10px;
+    /* height: 700px; */
+    padding-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+}
