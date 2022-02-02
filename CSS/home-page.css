@@ -207,3 +207,7 @@ input[type=text] {
 input::placeholder {
     font-size: 13px;
 }
+
+.marginSmall {
+    margin-top: 0.1px;
+}

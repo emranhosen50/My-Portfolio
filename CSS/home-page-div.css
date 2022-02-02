@@ -84,8 +84,8 @@
 
 .Content_box {
     display: flex;
-    margin-top: -19px;
-    margin-top: 10px;
+    /* margin-top: -19px;
+    margin-top: 10px; */
 }
 
 .Content_Text {
