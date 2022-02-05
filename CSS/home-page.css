@@ -211,3 +211,7 @@ input::placeholder {
 .marginSmall {
     margin-top: 0.1px;
 }
+
+.IconSize {
+    height: 20px;
+}

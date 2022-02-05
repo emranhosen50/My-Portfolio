@@ -1,4 +1,5 @@
 .ProfileBOX {
+    /* width: 100%; */
     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
     margin-top: 170px;
     background-color: #141310;
@@ -195,7 +196,7 @@
 
 .reponsiveSize {
     width: 100%;
-    height: 370px;
+    height: 100%;
     background-color: #1E1E1E;
 }
 
@@ -204,5 +205,9 @@
 }
 
 .primaryBGColor {
-    color: #141310;
+    background-color: #1E1E1E;
+}
+
+.bg-dark {
+    background-color: #1E1E1E;
 }
